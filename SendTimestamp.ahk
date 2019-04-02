@@ -7,3 +7,4 @@ return
 FormatTime, CurrentDateTime,, 
 SendRaw %CurrentDateTime%
 return
+
